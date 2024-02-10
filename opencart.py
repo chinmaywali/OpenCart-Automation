@@ -14,7 +14,7 @@ driver.get("https://demo.opencart.com/index.php?route=account/register&language=
 driver.maximize_window()
 
 registration_data = {
-    "first_name": "Chinmay",
+    "first_name": "Chinmay", 
     "last_name": "W",
     "email": "chin12356@example.com",
     "password": "SecurePassword123",
